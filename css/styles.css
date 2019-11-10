@@ -32,11 +32,12 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: white;
+  background-color: #01122f;
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #f6b319;
 }
 
 #home-tiles {
